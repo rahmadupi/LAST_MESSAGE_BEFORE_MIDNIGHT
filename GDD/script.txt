@@ -1,0 +1,233 @@
+ACT 1 — Normal
+
+Alya: hey…
+Alya: kamu masih bangun kan?
+Alya: tau ini udah malem banget.
+Alya: jam 2 pagi malah. 
+Alya: pasti kamu masih di depan laptop.
+Alya: maaf ya kalau ganggu fokus kamu.
+Alya: tapi… aku gatau harus chat siapa lagi.
+Alya: dadaku rasanya sesak banget.
+
+***
+[CHOICE 1]
+▶ Supportive: "kenapa al? tumben jam segini. aku belum tidur kok, baru aja kelar ngerjain project."
+▶ Dismissive: "tidur al. besok aja ceritanya, aku udah capek banget mau istirahat."
+***
+
+(If Supportive)
+Alya: syukurlah…
+Alya: makasih udah mau nyempetin bales.
+Alya: aku tau kamu pasti capek habis mikirin error di kodenya.
+Alya: aku ganggu ya?
+
+(If Dismissive)
+Alya: tunggu… 
+Alya: bentar aja.
+Alya: tolong jangan dimatiin dulu hp-nya.
+Alya: aku mohon… ini beneran penting.
+Alya: aku butuh kamu.
+
+(Story Continues)
+Alya: aku ngerasa aneh banget hari ini.
+Alya: dari tadi sore…
+Alya: atau dari kemarin ya?
+Alya: pokoknya kayak… ada yang salah.
+Alya: aku ngerasa berat.
+Alya: padahal aku cuma tiduran aja di kasur.
+
+---
+
+ACT 2 — Uneasy
+
+Alya: kamu mau ngetik "sakit apa", kan?
+Alya: gatau kenapa… aku bisa tau apa yang mau kamu bales.
+Alya: persis sebelum kamu ngetik.
+Alya: aneh ya?
+Alya: hahah…
+
+Alya: tapi ada yang lebih aneh lagi.
+Alya: jam di kamarku.
+Alya: dari tadi ga berubah.
+Alya: berhenti di 23:55.
+Alya: padahal perasaan kita udah chat lumayan lama…
+Alya: batre hp-ku juga tetep 14%. ga turun-turun.
+
+Alya: dan di sini dingin banget.
+Alya: sepi.
+Alya: bener-bener ga ada suara apa-apa dari luar.
+Alya: biasanya jam segini masih ada suara motor lewat di depan kosan.
+Alya: atau suara jangkrik.
+Alya: tapi ini senyap. 
+Alya: senyap yang bikin telinga penging.
+
+Alya: aku buka jendela, di luar gelap gulita.
+Alya: kayak ga ada kehidupan.
+Alya: aku cuma bisa liat layar hp ini.
+Alya: dan chat dari kamu.
+
+---
+
+ACT 3 — Memory
+
+Alya: kamu inget ga…
+Alya: malam itu?
+Alya: pas hujan deres banget.
+Alya: kita lagi pusing-pusingnya ngurusin riset itu.
+Alya: kamu capek, aku juga capek karena revisi paper ga kelar-kelar.
+Alya: terus kita berantem hebat di lab.
+
+Alya: aku marah banget sama kamu…
+Alya: aku bilang hal-hal yang jahat.
+Alya: aku bilang aku nyesel satu tim sama kamu.
+Alya: padahal aku ga pernah maksud gitu.
+Alya: aku cuma… stress.
+
+Alya: sampe akhirnya aku milih pergi.
+Alya: aku lari keluar kampus.
+Alya: kamu sempet teriak nyuruh aku nunggu hujan reda.
+Alya: tapi aku ga peduli. 
+Alya: jalanan licin dan gelap banget malam itu.
+
+Alya: aku jalan sambil nangis.
+Alya: terus… 
+Alya: dari arah tikungan…
+Alya: aku inget ada lampu mobil yang terang banget.
+Alya: nyorot langsung ke mataku.
+Alya: suara klakson yang panjang… decit ban…
+Alya: terus… 
+Alya: semuanya hilang.
+
+Alya: abis itu cuma ada gelap.
+
+---
+
+ACT 4 — Breakdown
+
+Alya: tunggu.
+Alya: kepalaku pusing.
+Alya: aku… 
+Alya: aku udah pernah ngetik ini kan?
+Alya: iya kan?!
+Alya: kemarin? atau besok?
+Alya: kenapa kerasa berulang?!
+
+Alya: ya ampun…
+Alya: aku inget sekarang.
+Alya: aku udah minta maaf ke kamu berulang kali.
+Alya: tapi kenapa aku selalu balik lagi ke jam 23:55?! 
+Alya: kenapa aku masih di sini?!
+
+Alya: dingin.
+Alya: dingin banget.
+Alya: aku ngerasain aspalnya lagi.
+Alya: air hujannya…
+Alya: sakit. dadaku sakit banget.
+Alya: darahnya ga mau berhenti.
+Alya: tolong aku. aku takut. 
+Alya: aku gamau mati sendirian di jalan ini!
+
+***
+[CHOICE 2]
+▶ Comfort: "Alya, aku di sini. fokus ke chat aku. jangan inget-inget yang lain. tarik napas pelan-pelan."
+▶ Reject: "Al, sumpah kamu ngomong apa sih? kamu di kosan kan sekarang? jangan bikin aku merinding."
+***
+
+(If Comfort)
+Alya: makasih… 
+Alya: makasih udah nemenin aku.
+Alya: suara hujan di kepalaku pelan-pelan ilang kalau aku fokus ke layar ini.
+Alya: cuma kamu yang bikin aku ngerasa nyata.
+
+(If Reject)
+Alya: tolong percaya sama aku!
+Alya: jangan marah…
+Alya: tolong jangan ngebentak aku lagi kayak malam di lab itu.
+Alya: aku cuma bingung… dan takut.
+
+---
+
+ACT 5 — Midnight
+
+Alya: jamnya gerak lagi.
+Alya: 23:58.
+Alya: sebentar lagi 23:59.
+Alya: aku ngerasa… ini beneran waktunya.
+Alya: udara di sekitarku makin tipis.
+Alya: aku ngerasa badanku makin transparan.
+Alya: atau mungkin… aku emang udah ga ada dari malam itu?
+Alya: dan ini cuma sisa-sisa kesadaranku aja.
+
+Alya: waktu kerasa cepet banget sekarang.
+Alya: aku gamau ngulang loop ini lagi.
+Alya: rasanya sakit banget tiap kali ketabrak lagi di ingatanku.
+
+Alya: dengerin aku ya.
+Alya: maafin aku buat semuanya.
+Alya: buat kata-kata kasarku di lab. 
+Alya: buat ninggalin kamu gitu aja tanpa dengerin penjelasan kamu.
+Alya: buat ninggalin project kita.
+Alya: dan buat rasa bersalah yang harus kamu tanggung karena mikir ini salahmu.
+
+Alya: ini bukan salahmu.
+
+Alya: aku capek nahan beban ini sendirian di sini…
+Alya: aku cuma butuh satu jawaban dari kamu.
+Alya: sebelum jam ini nyentuh jam 12.
+Alya: apa kamu… udah maafin aku?
+
+***
+[FINAL CHOICE]
+▶ Let Go: "aku udah maafin kamu dari lama, Al. itu bukan salah siapa-siapa. sekarang kamu boleh istirahat dengan tenang."
+▶ Stay: "jangan pergi Al! aku belum siap! aku masih butuh kamu buat semuanya. tolong jangan tinggalin aku lagi!"
+***
+
+ENDINGS
+
+GOOD ENDING (Let Go)
+
+(If player chose: "aku udah maafin kamu dari lama, Al. itu bukan salah siapa-siapa. sekarang kamu boleh istirahat dengan tenang.")
+
+Alya: benarkah…?
+Alya: kamu ga benci aku?
+Alya: …syukurlah.
+Alya: tiba-tiba… rasanya ga terlalu dingin lagi.
+Alya: rasa sakit di dadaku juga hilang.
+Alya: ada cahaya dari luar jendelaku.
+Alya: terang banget… tapi hangat.
+Alya: rasanya damai.
+Alya: akhirnya… aku bisa tidur.
+Alya: makasih ya, untuk semuanya. 
+Alya: jangan lupa makan yang bener, jangan ngoding sampe pagi terus.
+Alya: selamat tinggal, temanku.
+
+(Alya is offline)
+(This number is no longer active)
+
+---
+
+BAD ENDING (Stay)
+
+(If player chose: "jangan pergi Al! aku belum siap! aku masih butuh kamu buat semuanya. tolong jangan tinggalin aku lagi!")
+
+Alya: tapi…
+Alya: rasanya sakit kalau aku harus nahan diri di sini terus.
+Alya: kenapa kamu ga bisa ngelepasin aku?
+Alya: kamu… kamu nahan aku buat pergi?
+Alya: kenapa kamu egois?!
+Alya: kamu mau aku ngerasain aspal dingin ini terus-terusan?!
+Alya: dingin.
+Alya: dingin banget.
+Alya: semuanya gelap… 
+Alya: lampunya dateng lagi…
+Alya: jamnya… 
+Alya: kenapa mundur lagi ke 23:55?!
+Alya: sakit…
+Alya: tolong… lepaskan aku…
+
+(Connection Lost)
+(Connecting...)
+(Alya is online)
+
+Alya: hey…
+Alya: kamu masih bangun kan?

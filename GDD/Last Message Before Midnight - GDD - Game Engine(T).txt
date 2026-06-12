@@ -1,0 +1,127 @@
+Last Message Before Midnight
+
+Game Overview
+Judul: Last Message Before Midnight
+Genre: Visual Novel / Psychological Mystery
+Platform: PC (Ren’Py)
+Core Idea: Game visual novel berbasis chat di mana pemain berkomunikasi dengan teman yang hilang, yang mengirim pesan-pesan yang tidak seharusnya bisa terjadi. 
+Karakter: 2 Karakter - Pemain dan Teman/Sesuatu
+
+Game Design Pillars
+Minimalisme
+Fokus pada UI sederhana dan aset terbatas agar game selesai.
+Fokus Narasi
+Cerita dan dialog adalah inti utama pengalaman.
+Atmosfer Misteri
+Ketegangan dibangun lewat timing, jeda, dan pacing, bukan fitur rumit.
+Perubahan Bertahap
+Dimulai normal, lalu perlahan menjadi aneh dan mengganggu.
+
+Game Mechanics
+Interaksi Chat
+Pesan muncul satu per satu
+Pemain memilih balasan (2–3 pilihan)
+Sistem Pilihan
+Pilihan biasa (tidak mempengaruhi ending)
+Pilihan penting (mempengaruhi ending)
+Sistem Timing
+Delay antar pesan
+Simulasi “typing…”
+Progression
+Alur linear dengan beberapa percabangan
+Berujung ke salah satu ending
+
+Story & Narative
+	Sebuah nama yang familiar muncul di layar ponselmu. seseorang yang seharusnya sudah tidak bisa menghubungimu lagi. Percakapan yang awalnya terasa biasa perlahan berubah menjadi sesuatu yang tidak masuk akal. Pesan-pesan yang dikirim tidak mengikuti waktu, dan orang di baliknya seolah tidak lagi berada di dunia yang sama. Seiring malam semakin larut, kamu mulai menyadari bahwa temanmu terjebak di antara hidup dan mati ditahan oleh sesuatu yang belum terselesaikan, sesuatu yang belum bisa ia lepaskan.Melalui rangkaian pesan, kamu dibawa kembali ke momen terakhirnya, penyesalan yang ia simpan, dan kebenaran tentang apa yang sebenarnya terjadi malam itu.
+
+Ketika tengah malam tiba, kamu harus membuat pilihan:
+Melepaskannya… atau tetap menahannya di sini bersamamu.
+
+Act 1 - Normal
+Tujuan: Membangun kesan percakapan biasa + sedikit keanehan
+Teman mulai chat dengan santai
+Topik ringan (kampus, tugas, dll)
+Sedikit kejanggalan:
+Menyebut “telat balas” diawal interaksi yang baru saja terjadi
+Mengingat percakapan yang belum terjadi
+Emosi: Netral - sedikit aneh
+Clue: Ada sesuatu yang salah “waktu yang tidak sesuai”
+
+
+Act 2 - Kejanggalan
+Tujuan: Membangun kecurigaan terhadap sesuatu
+Teman mulai berbicara hal aneh(Text)
+Nada serius(Text)
+Pertanyaan mulai lebih serius dan personal
+Emosi: Cemas ringan
+Clue: Teman seolah dapat melihat ke masa depan atau mengetahui sebuah pola tertentu
+Pilihan Naratif: Percaya/Tidak percaya
+
+Act 3 - Ingatan
+Tujuan: Memberi petunjuk kejadian masa lalu
+Teman menyebut satu kejadian spesifik:
+Hal yang berdampak serius pada hubungan sosial antar teman
+Pertengkaran/Kecelakaan
+Emosi: Nostalgia dan Ketidaknyamanan
+Clue: Ada kejadian penting sebelum sesuatu terjadi pada teman
+
+Act 4 - Pemahaman
+Tujuan: Puncak Konflik Emosional
+Teman mulai panik
+Pesan menumpuk
+Pesan lebih pendek
+Pesan dikirim tergesa gesa, tidak lengkap
+Emosi: aa
+Clue: Waktu berulang (teman terjebak pada sesuatu)
+Pilihan Naratif: Mendukung/Meremehkan(menganggap tidak masuk akal)
+
+Act 5 - Midnight
+Tujuan: Resolusi - Keputusan akhir
+Waktu mendekati tengah malam
+Teman kembali merespons setelah di act sebelumnya hening
+Pesan menjadi cepat dan emosional
+Emosi: Emosional
+Clue: Waktu
+Pilihan Naratif: Tahan(tetap ikuti respon teman)/Lepaskan(membantu teman menerima nasib)
+
+Ending
+Baik - Lepaskan
+Pemain membantu teman menerima takdir
+Teman berterimakasih
+Teman tidak merespon kembali
+
+Buruk
+Pemain terus membalas teman
+Teman tetap terjebak
+
+Chat berulang ke awal game
+
+
+Game Visual
+UI chat pixel art
+Layout terinspirasi WhatsApp
+Frame HP dengan background luar
+Bubble chat kiri/kanan
+Tombol pilihan di bawah 
+
+Project Scope
+Engine: Ren’Py
+Visual Style:
+Neubrutal UI Style
+UI minimalis
+Aset yang Dibutuhkan:
+Background luar HP
+Frame HP
+Bubble chat (kiri & kanan)
+Top bar UI
+
+Scope Teknis:
+Sistem dialog bercabang sederhana
+Tanpa sistem kompleks
+Tanpa karakter tambahan
+
+Batasan:
+Jumlah aset minimal
+Hindari penambahan fitur
+Fokus pada game yang selesai dan playable
+
