@@ -1,0 +1,67 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 64, in script
+    nvl show
+  File "game/screens.rpy", line 252, in execute
+    screen nvl(dialogue, items=None):
+  File "game/screens.rpy", line 252, in execute
+    screen nvl(dialogue, items=None):
+  File "game/screens.rpy", line 313, in execute
+    text (dialogue.what) id "what" xsize 1 ysize 1 color "#00000000"
+  File "game/screens.rpy", line 313, in <module>
+    text (dialogue.what) id "what" xsize 1 ysize 1 color "#00000000"
+AttributeError: 'RevertableList' object has no attribute 'what'
+
+-- Full Traceback ------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "game/script.rpy", line 64, in script
+    nvl show
+  File "renpy/ast.py", line 2231, in execute
+    self.call("execute")
+    ~~~~~~~~~^^^^^^^^^^^
+  File "renpy/ast.py", line 2195, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/statements.py", line 379, in call
+    return method(parsed, *args, **kwargs)
+           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/common/00nvl_mode.rpy", line 585, in execute_nvl_show
+    nvl_show(eval(trans))
+    ~~~~~~~~^^^^^^^^^^^^^
+  File "renpy/common/00nvl_mode.rpy", line 249, in nvl_show
+    nvl_show_core()
+    ~~~~~~~~~~~~~^^
+  File "renpy/common/00nvl_mode.rpy", line 207, in nvl_show_core
+    return __nvl_show_screen("nvl", items=[ ])
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "renpy/common/00nvl_mode.rpy", line 201, in _m1_00nvl_mode__nvl_show_screen
+    return renpy.get_widget(screen_name, "what", config.nvl_layer)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/display/screen.py", line 1565, in get_displayable
+    screen.update()
+    ~~~~~~~~~~~~~^^
+  File "renpy/display/screen.py", line 715, in update
+    self.screen.function(**self.scope)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "game/screens.rpy", line 252, in execute
+    screen nvl(dialogue, items=None):
+  File "game/screens.rpy", line 252, in execute
+    screen nvl(dialogue, items=None):
+  File "game/screens.rpy", line 313, in execute
+    text (dialogue.what) id "what" xsize 1 ysize 1 color "#00000000"
+  File "renpy/python.py", line 1292, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1285, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/screens.rpy", line 313, in <module>
+    text (dialogue.what) id "what" xsize 1 ysize 1 color "#00000000"
+AttributeError: 'RevertableList' object has no attribute 'what'
+
+Linux-7.0.11-1-cachyos-x86_64-with-glibc2.43 x86_64
+Ren'Py 8.4.1.25072401
+Last Message Before Midnight 1.0
+Fri Jun 19 11:47:18 2026

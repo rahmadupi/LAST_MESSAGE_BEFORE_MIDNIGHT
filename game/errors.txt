@@ -1,0 +1,82 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "gui.rpy", line 135: style property text_outlines is not known.
+    text_outlines [(4, "#0f0f1a", 0, 0)]
+                 ^
+
+File "gui.rpy", line 143: style property text_outlines is not known.
+    text_outlines [(2, "#0f0f1a", 0, 0)]
+                 ^
+
+File "gui.rpy", line 164: style property text_color is not known.
+    text_color "#f4d03f"
+              ^
+
+File "screens.rpy", line 124: 'top_margin' is not a keyword argument or valid child of the vbox statement.
+    top_margin 4
+              ^
+
+File "screens.rpy", line 213: 'bottom_margin' is not a keyword argument or valid child of the text statement.
+    bottom_margin 26
+                 ^
+
+File "screens.rpy", line 294: 'right_margin' is not a keyword argument or valid child of the text statement.
+    right_margin 10
+                ^
+
+File "screens.rpy", line 392: 'top_margin' is not a keyword argument or valid child of the text statement.
+    top_margin 12
+              ^
+
+File "screens.rpy", line 437: 'top_margin' is not a keyword argument or valid child of the text statement.
+    top_margin 12
+              ^
+
+File "screens.rpy", line 461: 'text_outlines' is not a keyword argument or valid child of the text statement.
+    text_outlines [(3, "#0f0f1a", 0, 0)]
+                 ^
+
+File "screens.rpy", line 579: 'text_outlines' is not a keyword argument or valid child of the text statement.
+    text_outlines [(2, "#0f0f1a", 0, 0)]
+                 ^
+
+File "screens.rpy", line 609: 'text_outlines' is not a keyword argument or valid child of the text statement.
+    text_outlines [(3, "#0f0f1a", 0, 0)]
+                 ^
+
+File "script.rpy", line 70: expected statement.
+    lmbm_typing(0.5)
+                    ^
+
+File "script.rpy", line 72: expected statement.
+    lmbm_typing(0.5)
+                    ^
+
+File "script.rpy", line 118: expected statement.
+    lmbm_pause(0.8)
+                   ^
+
+File "script.rpy", line 151: expected statement.
+    lmbm_pause(1.0)
+                   ^
+
+File "script.rpy", line 188: expected statement.
+    lmbm_pause(0.6)
+                   ^
+
+File "script.rpy", line 236: expected statement.
+    lmbm_pause(0.8)
+                   ^
+
+File "script.rpy", line 299: expected statement.
+    lmbm_pause(1.5)
+                   ^
+
+File "script.rpy", line 331: expected statement.
+    lmbm_pause(1.5)
+                   ^
+
+Ren'Py Version: Ren'Py 8.4.1.25072401
+Fri Jun 19 11:32:03 2026
